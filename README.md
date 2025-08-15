@@ -1,0 +1,1 @@
+# LLM-somente-com-NumPy
